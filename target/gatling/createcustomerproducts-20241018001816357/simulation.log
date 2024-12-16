@@ -1,0 +1,133 @@
+RUN	privateApi.CreateCustomerProducts	createcustomerproducts	1729210696357	 	3.9.5
+USER	Crear un cliente en CRM	START	1729210698130
+USER	Crear un cliente en CRM	START	1729210698376
+REQUEST		Create Customer Products	1729210698376	1729210698591	KO	status.find.is(200), but actually found 403
+REQUEST		Create Customer Products	1729210698233	1729210698591	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	START	1729210698611
+USER	Crear un cliente en CRM	END	1729210698615
+USER	Crear un cliente en CRM	END	1729210698615
+REQUEST		Create Customer Products	1729210698612	1729210698660	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210698663
+USER	Crear un cliente en CRM	START	1729210698875
+REQUEST		Create Customer Products	1729210698876	1729210698917	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210698920
+USER	Crear un cliente en CRM	START	1729210699123
+REQUEST		Create Customer Products	1729210699124	1729210699170	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210699173
+USER	Crear un cliente en CRM	START	1729210699374
+REQUEST		Create Customer Products	1729210699375	1729210699424	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210699426
+USER	Crear un cliente en CRM	START	1729210699626
+REQUEST		Create Customer Products	1729210699627	1729210699656	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210699660
+USER	Crear un cliente en CRM	START	1729210699865
+REQUEST		Create Customer Products	1729210699866	1729210699904	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210699907
+USER	Crear un cliente en CRM	START	1729210700129
+REQUEST		Create Customer Products	1729210700130	1729210700158	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210700161
+USER	Crear un cliente en CRM	START	1729210700364
+REQUEST		Create Customer Products	1729210700366	1729210700406	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210700409
+USER	Crear un cliente en CRM	START	1729210700614
+REQUEST		Create Customer Products	1729210700615	1729210700670	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210700673
+USER	Crear un cliente en CRM	START	1729210700859
+REQUEST		Create Customer Products	1729210700861	1729210700900	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210700902
+USER	Crear un cliente en CRM	START	1729210701112
+REQUEST		Create Customer Products	1729210701113	1729210701149	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210701152
+USER	Crear un cliente en CRM	START	1729210701363
+REQUEST		Create Customer Products	1729210701364	1729210701406	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210701409
+USER	Crear un cliente en CRM	START	1729210701609
+REQUEST		Create Customer Products	1729210701610	1729210701652	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210701655
+USER	Crear un cliente en CRM	START	1729210701870
+REQUEST		Create Customer Products	1729210701872	1729210701911	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210701913
+USER	Crear un cliente en CRM	START	1729210702119
+REQUEST		Create Customer Products	1729210702120	1729210702149	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210702168
+USER	Crear un cliente en CRM	START	1729210702370
+REQUEST		Create Customer Products	1729210702371	1729210702402	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210702405
+USER	Crear un cliente en CRM	START	1729210702622
+REQUEST		Create Customer Products	1729210702623	1729210702656	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210702658
+USER	Crear un cliente en CRM	START	1729210702874
+REQUEST		Create Customer Products	1729210702876	1729210702931	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210702933
+USER	Crear un cliente en CRM	START	1729210703122
+REQUEST		Create Customer Products	1729210703123	1729210703169	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210703172
+USER	Crear un cliente en CRM	START	1729210703370
+REQUEST		Create Customer Products	1729210703372	1729210703417	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210703420
+USER	Crear un cliente en CRM	START	1729210703617
+REQUEST		Create Customer Products	1729210703618	1729210703650	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210703653
+USER	Crear un cliente en CRM	START	1729210703872
+REQUEST		Create Customer Products	1729210703873	1729210703899	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210703902
+USER	Crear un cliente en CRM	START	1729210704110
+REQUEST		Create Customer Products	1729210704111	1729210704183	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210704188
+USER	Crear un cliente en CRM	START	1729210704360
+REQUEST		Create Customer Products	1729210704361	1729210704416	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210704418
+USER	Crear un cliente en CRM	START	1729210704621
+REQUEST		Create Customer Products	1729210704622	1729210704655	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210704657
+USER	Crear un cliente en CRM	START	1729210704868
+REQUEST		Create Customer Products	1729210704869	1729210704915	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210704918
+USER	Crear un cliente en CRM	START	1729210705118
+REQUEST		Create Customer Products	1729210705119	1729210705164	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210705167
+USER	Crear un cliente en CRM	START	1729210705366
+REQUEST		Create Customer Products	1729210705367	1729210705399	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210705402
+USER	Crear un cliente en CRM	START	1729210705616
+REQUEST		Create Customer Products	1729210705617	1729210705648	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210705651
+USER	Crear un cliente en CRM	START	1729210705867
+REQUEST		Create Customer Products	1729210705868	1729210705900	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210705902
+USER	Crear un cliente en CRM	START	1729210706120
+REQUEST		Create Customer Products	1729210706121	1729210706172	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210706175
+USER	Crear un cliente en CRM	START	1729210706364
+REQUEST		Create Customer Products	1729210706365	1729210706397	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210706400
+USER	Crear un cliente en CRM	START	1729210706611
+REQUEST		Create Customer Products	1729210706613	1729210706648	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210706651
+USER	Crear un cliente en CRM	START	1729210706858
+REQUEST		Create Customer Products	1729210706859	1729210706910	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210706913
+USER	Crear un cliente en CRM	START	1729210707121
+REQUEST		Create Customer Products	1729210707122	1729210707148	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210707151
+USER	Crear un cliente en CRM	START	1729210707371
+REQUEST		Create Customer Products	1729210707373	1729210707403	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210707407
+USER	Crear un cliente en CRM	START	1729210707622
+REQUEST		Create Customer Products	1729210707623	1729210707664	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210707666
+USER	Crear un cliente en CRM	START	1729210707872
+REQUEST		Create Customer Products	1729210707873	1729210707901	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210707903
+USER	Crear un cliente en CRM	START	1729210708121
+REQUEST		Create Customer Products	1729210708122	1729210708154	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210708157
+USER	Crear un cliente en CRM	START	1729210708370
+REQUEST		Create Customer Products	1729210708371	1729210708411	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210708413
+USER	Crear un cliente en CRM	START	1729210708618
+REQUEST		Create Customer Products	1729210708620	1729210708652	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210708659
+USER	Crear un cliente en CRM	START	1729210708865
+REQUEST		Create Customer Products	1729210708867	1729210708898	KO	status.find.is(200), but actually found 403
+USER	Crear un cliente en CRM	END	1729210708901

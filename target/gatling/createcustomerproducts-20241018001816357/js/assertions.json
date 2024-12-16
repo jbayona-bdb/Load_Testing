@@ -1,0 +1,10 @@
+{
+  "simulation": "privateApi.CreateCustomerProducts",
+  "simulationId": "createcustomerproducts-20241018001816357",
+  "start": 1729210698130,
+  "description": "",
+  "scenarios": ["Crear un cliente en CRM"],
+  "assertions": [
+
+  ]
+}
