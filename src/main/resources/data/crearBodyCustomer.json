@@ -1,0 +1,67 @@
+{
+  "customerCreateReq": {
+    "CustInfo": {
+      "PersonInfo": {
+        "PersonName": {
+          "FirstName": "Prueba",
+          "LastName": "Prueba"
+        },
+        "ContactInfo": [
+          {
+            "PhoneNum": {
+              "PhoneType": "12",
+              "Phone": "3223009920"
+            },
+            "EmailAddr": "prueba@bancodebogota.com.co",
+            "PostAddr": {
+              "Addr1": "CL;35;AK;15-20;;;;;;;COL;11;11001000;;",
+              "CityId": "001",
+              "StateProv": "11",
+              "AddrType": "34",
+              "CurrentHouseType": "P"
+            }
+          }
+        ],
+        "BirthDt": "2000-07-11",
+        "Gender": "M",
+        "TaxPayerInd": false,
+        "Nationality": "COL",
+        "NativeCountry": "COL",
+        "EducationalLevel":"3",
+        "Fatca": "ARG",
+        "MaritalStatus": "C",
+        "DependentsAdults": 5,
+        "DependentsMinors": 3,
+        "Stratum": "6",
+        "Employment": [
+          {
+            "OccupationCode": 1,
+            "EmploymentId": "0010"
+          }
+        ]
+      },
+      "FinancialData": {
+        "OtherAssests": 150000,
+        "Expenses": 1000000,
+        "Income": 15000000,
+        "TotalLiabilities": {
+          "CurAmt": {
+            "Amt": 2500000
+          }
+        },
+        "TotalAssests": {
+          "CurAmt": {
+            "Amt": 15000000
+          }
+        },
+        "CostsReport": "2"
+      },
+      "CustId": [
+        {
+          "IssDt": "2018-08-16",
+          "ExpeditionPlace": "00110101"
+        }
+      ]
+    }
+  }
+}
